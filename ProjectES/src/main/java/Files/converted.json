@@ -1,0 +1,1927 @@
+{
+  "vcalendar": [
+    {
+      "prodid": "-//ISCTE-IUL//fenix//EN",
+      "version": "2.0",
+      "calscale": "GREGORIAN",
+      "user": "tfava1",
+      "vevent": [
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230227T143000Z", 
+          "data_fim": "20230227T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220928T100000Z", 
+          "data_fim": "20220928T113000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221006T120000Z", 
+          "data_fim": "20221006T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230427T150000Z", 
+          "data_fim": "20230427T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221017T133000Z", 
+          "data_fim": "20221017T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230417T120000Z", 
+          "data_fim": "20230417T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230427T133000Z", 
+          "data_fim": "20230427T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230216T143000Z", 
+          "data_fim": "20230216T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230317T130000Z", 
+          "data_fim": "20230317T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221121T130000Z", 
+          "data_fim": "20221121T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230324T080000Z", 
+          "data_fim": "20230324T093000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220915T133000Z", 
+          "data_fim": "20220915T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230208T160000Z", 
+          "data_fim": "20230208T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230217T080000Z", 
+          "data_fim": "20230217T093000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221017T150000Z", 
+          "data_fim": "20221017T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230503T150000Z", 
+          "data_fim": "20230503T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221012T133000Z", 
+          "data_fim": "20221012T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221014T150000Z", 
+          "data_fim": "20221014T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221031T130000Z", 
+          "data_fim": "20221031T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221007T133000Z", 
+          "data_fim": "20221007T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221108T160000Z", 
+          "data_fim": "20221108T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230207T143000Z", 
+          "data_fim": "20230207T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230503T133000Z", 
+          "data_fim": "20230503T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230426T150000Z", 
+          "data_fim": "20230426T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230224T093000Z", 
+          "data_fim": "20230224T110000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221129T160000Z", 
+          "data_fim": "20221129T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230505T070000Z", 
+          "data_fim": "20230505T083000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221205T130000Z", 
+          "data_fim": "20221205T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230516T133000Z", 
+          "data_fim": "20230516T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230516T120000Z", 
+          "data_fim": "20230516T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221010T133000Z", 
+          "data_fim": "20221010T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230217T130000Z", 
+          "data_fim": "20230217T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220929T083000Z", 
+          "data_fim": "20220929T100000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230505T083000Z", 
+          "data_fim": "20230505T100000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221202T160000Z", 
+          "data_fim": "20221202T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230214T130000Z", 
+          "data_fim": "20230214T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221109T143000Z", 
+          "data_fim": "20221109T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230215T160000Z", 
+          "data_fim": "20230215T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221007T150000Z", 
+          "data_fim": "20221007T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221018T150000Z", 
+          "data_fim": "20221018T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220914T120000Z", 
+          "data_fim": "20220914T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221102T130000Z", 
+          "data_fim": "20221102T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230421T133000Z", 
+          "data_fim": "20230421T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221121T143000Z", 
+          "data_fim": "20221121T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220926T120000Z", 
+          "data_fim": "20220926T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230428T120000Z", 
+          "data_fim": "20230428T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230515T120000Z", 
+          "data_fim": "20230515T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230511T133000Z", 
+          "data_fim": "20230511T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230210T130000Z", 
+          "data_fim": "20230210T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230313T130000Z", 
+          "data_fim": "20230313T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220928T120000Z", 
+          "data_fim": "20220928T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230426T133000Z", 
+          "data_fim": "20230426T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221104T143000Z", 
+          "data_fim": "20221104T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230303T143000Z", 
+          "data_fim": "20230303T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230517T133000Z", 
+          "data_fim": "20230517T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230512T120000Z", 
+          "data_fim": "20230512T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230418T120000Z", 
+          "data_fim": "20230418T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230330T150000Z", 
+          "data_fim": "20230330T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221207T160000Z", 
+          "data_fim": "20221207T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221025T120000Z", 
+          "data_fim": "20221025T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230217T143000Z", 
+          "data_fim": "20230217T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221010T120000Z", 
+          "data_fim": "20221010T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221116T143000Z", 
+          "data_fim": "20221116T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230206T130000Z", 
+          "data_fim": "20230206T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230301T143000Z", 
+          "data_fim": "20230301T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221117T130000Z", 
+          "data_fim": "20221117T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230421T070000Z", 
+          "data_fim": "20230421T083000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230302T160000Z", 
+          "data_fim": "20230302T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230509T133000Z", 
+          "data_fim": "20230509T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230316T160000Z", 
+          "data_fim": "20230316T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220923T133000Z", 
+          "data_fim": "20220923T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221128T130000Z", 
+          "data_fim": "20221128T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230213T160000Z", 
+          "data_fim": "20230213T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230523T120000Z", 
+          "data_fim": "20230523T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221215T143000Z", 
+          "data_fim": "20221215T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221010T150000Z", 
+          "data_fim": "20221010T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230329T120000Z", 
+          "data_fim": "20230329T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221123T143000Z", 
+          "data_fim": "20221123T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221124T143000Z", 
+          "data_fim": "20221124T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220920T133000Z", 
+          "data_fim": "20220920T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230310T080000Z", 
+          "data_fim": "20230310T093000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230323T160000Z", 
+          "data_fim": "20230323T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221130T160000Z", 
+          "data_fim": "20221130T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221215T160000Z", 
+          "data_fim": "20221215T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230217T093000Z", 
+          "data_fim": "20230217T110000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220929T120000Z", 
+          "data_fim": "20220929T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221103T160000Z", 
+          "data_fim": "20221103T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220922T150000Z", 
+          "data_fim": "20220922T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230424T133000Z", 
+          "data_fim": "20230424T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220912T120000Z", 
+          "data_fim": "20220912T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230517T150000Z", 
+          "data_fim": "20230517T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221027T120000Z", 
+          "data_fim": "20221027T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220912T133000Z", 
+          "data_fim": "20220912T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221013T133000Z", 
+          "data_fim": "20221013T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230320T130000Z", 
+          "data_fim": "20230320T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221107T143000Z", 
+          "data_fim": "20221107T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230502T120000Z", 
+          "data_fim": "20230502T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221013T120000Z", 
+          "data_fim": "20221013T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230317T143000Z", 
+          "data_fim": "20230317T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230215T130000Z", 
+          "data_fim": "20230215T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230308T143000Z", 
+          "data_fim": "20230308T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220912T150000Z", 
+          "data_fim": "20220912T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230508T133000Z", 
+          "data_fim": "20230508T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221031T143000Z", 
+          "data_fim": "20221031T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221116T130000Z", 
+          "data_fim": "20221116T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220922T133000Z", 
+          "data_fim": "20220922T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221109T130000Z", 
+          "data_fim": "20221109T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230522T120000Z", 
+          "data_fim": "20230522T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220916T133000Z", 
+          "data_fim": "20220916T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221108T130000Z", 
+          "data_fim": "20221108T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230508T120000Z", 
+          "data_fim": "20230508T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220915T150000Z", 
+          "data_fim": "20220915T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230313T160000Z", 
+          "data_fim": "20230313T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230302T143000Z", 
+          "data_fim": "20230302T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220922T150000Z", 
+          "data_fim": "20220922T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220920T150000Z", 
+          "data_fim": "20220920T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221003T150000Z", 
+          "data_fim": "20221003T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221107T130000Z", 
+          "data_fim": "20221107T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221003T120000Z", 
+          "data_fim": "20221003T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230308T130000Z", 
+          "data_fim": "20230308T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230303T080000Z", 
+          "data_fim": "20230303T093000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220920T100000Z", 
+          "data_fim": "20220920T113000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230301T160000Z", 
+          "data_fim": "20230301T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220916T150000Z", 
+          "data_fim": "20220916T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220930T150000Z", 
+          "data_fim": "20220930T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221130T143000Z", 
+          "data_fim": "20221130T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230210T080000Z", 
+          "data_fim": "20230210T093000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230324T093000Z", 
+          "data_fim": "20230324T110000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220913T133000Z", 
+          "data_fim": "20220913T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230315T143000Z", 
+          "data_fim": "20230315T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221109T160000Z", 
+          "data_fim": "20221109T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220928T150000Z", 
+          "data_fim": "20220928T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220921T120000Z", 
+          "data_fim": "20220921T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221011T120000Z", 
+          "data_fim": "20221011T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220921T133000Z", 
+          "data_fim": "20220921T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230428T070000Z", 
+          "data_fim": "20230428T083000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230306T160000Z", 
+          "data_fim": "20230306T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230216T160000Z", 
+          "data_fim": "20230216T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221125T143000Z", 
+          "data_fim": "20221125T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230327T120000Z", 
+          "data_fim": "20230327T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221121T160000Z", 
+          "data_fim": "20221121T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230510T150000Z", 
+          "data_fim": "20230510T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220927T120000Z", 
+          "data_fim": "20220927T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221130T130000Z", 
+          "data_fim": "20221130T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220926T133000Z", 
+          "data_fim": "20220926T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221128T160000Z", 
+          "data_fim": "20221128T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230417T133000Z", 
+          "data_fim": "20230417T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221117T143000Z", 
+          "data_fim": "20221117T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221125T160000Z", 
+          "data_fim": "20221125T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221020T120000Z", 
+          "data_fim": "20221020T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221020T150000Z", 
+          "data_fim": "20221020T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230504T133000Z", 
+          "data_fim": "20230504T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230502T133000Z", 
+          "data_fim": "20230502T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221207T130000Z", 
+          "data_fim": "20221207T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221004T150000Z", 
+          "data_fim": "20221004T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221006T150000Z", 
+          "data_fim": "20221006T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221103T130000Z", 
+          "data_fim": "20221103T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230210T093000Z", 
+          "data_fim": "20230210T110000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230228T130000Z", 
+          "data_fim": "20230228T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230503T120000Z", 
+          "data_fim": "20230503T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230424T150000Z", 
+          "data_fim": "20230424T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221123T160000Z", 
+          "data_fim": "20221123T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221027T150000Z", 
+          "data_fim": "20221027T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221116T160000Z", 
+          "data_fim": "20221116T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221207T143000Z", 
+          "data_fim": "20221207T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221128T143000Z", 
+          "data_fim": "20221128T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221215T110000Z", 
+          "data_fim": "20221215T123000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220919T150000Z", 
+          "data_fim": "20220919T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221122T143000Z", 
+          "data_fim": "20221122T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230512T133000Z", 
+          "data_fim": "20230512T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230525T150000Z", 
+          "data_fim": "20230525T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221026T133000Z", 
+          "data_fim": "20221026T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230518T150000Z", 
+          "data_fim": "20230518T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230322T143000Z", 
+          "data_fim": "20230322T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221012T150000Z", 
+          "data_fim": "20221012T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220915T150000Z", 
+          "data_fim": "20220915T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230331T120000Z", 
+          "data_fim": "20230331T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230508T150000Z", 
+          "data_fim": "20230508T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230314T143000Z", 
+          "data_fim": "20230314T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230328T133000Z", 
+          "data_fim": "20230328T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230315T130000Z", 
+          "data_fim": "20230315T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230228T143000Z", 
+          "data_fim": "20230228T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221025T150000Z", 
+          "data_fim": "20221025T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221118T143000Z", 
+          "data_fim": "20221118T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220930T133000Z", 
+          "data_fim": "20220930T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230428T133000Z", 
+          "data_fim": "20230428T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220926T150000Z", 
+          "data_fim": "20220926T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230517T120000Z", 
+          "data_fim": "20230517T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230505T133000Z", 
+          "data_fim": "20230505T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221021T150000Z", 
+          "data_fim": "20221021T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221006T100000Z", 
+          "data_fim": "20221006T113000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220919T120000Z", 
+          "data_fim": "20220919T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230224T080000Z", 
+          "data_fim": "20230224T093000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230428T083000Z", 
+          "data_fim": "20230428T100000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230208T143000Z", 
+          "data_fim": "20230208T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230306T130000Z", 
+          "data_fim": "20230306T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221018T133000Z", 
+          "data_fim": "20221018T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220923T150000Z", 
+          "data_fim": "20220923T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221024T150000Z", 
+          "data_fim": "20221024T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230224T130000Z", 
+          "data_fim": "20230224T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221123T130000Z", 
+          "data_fim": "20221123T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220915T120000Z", 
+          "data_fim": "20220915T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230414T070000Z", 
+          "data_fim": "20230414T083000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220919T133000Z", 
+          "data_fim": "20220919T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230510T133000Z", 
+          "data_fim": "20230510T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221103T143000Z", 
+          "data_fim": "20221103T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221209T160000Z", 
+          "data_fim": "20221209T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220915T120000Z", 
+          "data_fim": "20220915T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230317T093000Z", 
+          "data_fim": "20230317T110000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220920T120000Z", 
+          "data_fim": "20220920T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221011T100000Z", 
+          "data_fim": "20221011T113000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230329T150000Z", 
+          "data_fim": "20230329T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221024T133000Z", 
+          "data_fim": "20221024T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221110T130000Z", 
+          "data_fim": "20221110T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230314T130000Z", 
+          "data_fim": "20230314T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221202T143000Z", 
+          "data_fim": "20221202T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230414T083000Z", 
+          "data_fim": "20230414T100000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221111T160000Z", 
+          "data_fim": "20221111T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230309T143000Z", 
+          "data_fim": "20230309T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221215T130000Z", 
+          "data_fim": "20221215T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220929T133000Z", 
+          "data_fim": "20220929T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230330T133000Z", 
+          "data_fim": "20230330T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230324T143000Z", 
+          "data_fim": "20230324T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230509T120000Z", 
+          "data_fim": "20230509T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230206T143000Z", 
+          "data_fim": "20230206T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230315T160000Z", 
+          "data_fim": "20230315T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230322T160000Z", 
+          "data_fim": "20230322T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221115T143000Z", 
+          "data_fim": "20221115T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230510T120000Z", 
+          "data_fim": "20230510T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220921T150000Z", 
+          "data_fim": "20220921T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221021T133000Z", 
+          "data_fim": "20221021T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221006T133000Z", 
+          "data_fim": "20221006T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230301T130000Z", 
+          "data_fim": "20230301T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230213T130000Z", 
+          "data_fim": "20230213T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221115T130000Z", 
+          "data_fim": "20221115T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220929T100000Z", 
+          "data_fim": "20220929T113000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221028T133000Z", 
+          "data_fim": "20221028T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220922T120000Z", 
+          "data_fim": "20220922T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230323T143000Z", 
+          "data_fim": "20230323T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230518T133000Z", 
+          "data_fim": "20230518T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221213T160000Z", 
+          "data_fim": "20221213T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230522T133000Z", 
+          "data_fim": "20230522T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230310T093000Z", 
+          "data_fim": "20230310T110000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221019T150000Z", 
+          "data_fim": "20221019T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221019T120000Z", 
+          "data_fim": "20221019T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230227T130000Z", 
+          "data_fim": "20230227T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221124T160000Z", 
+          "data_fim": "20221124T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230316T143000Z", 
+          "data_fim": "20230316T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221206T130000Z", 
+          "data_fim": "20221206T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221104T160000Z", 
+          "data_fim": "20221104T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220913T150000Z", 
+          "data_fim": "20220913T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221018T120000Z", 
+          "data_fim": "20221018T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230207T130000Z", 
+          "data_fim": "20230207T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230505T120000Z", 
+          "data_fim": "20230505T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230210T143000Z", 
+          "data_fim": "20230210T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230511T150000Z", 
+          "data_fim": "20230511T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220929T150000Z", 
+          "data_fim": "20220929T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230321T143000Z", 
+          "data_fim": "20230321T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220914T150000Z", 
+          "data_fim": "20220914T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230308T160000Z", 
+          "data_fim": "20230308T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221017T120000Z", 
+          "data_fim": "20221017T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221114T143000Z", 
+          "data_fim": "20221114T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220927T150000Z", 
+          "data_fim": "20220927T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221110T143000Z", 
+          "data_fim": "20221110T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220927T133000Z", 
+          "data_fim": "20220927T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221129T143000Z", 
+          "data_fim": "20221129T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230504T150000Z", 
+          "data_fim": "20230504T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221124T130000Z", 
+          "data_fim": "20221124T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221004T133000Z", 
+          "data_fim": "20221004T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221014T133000Z", 
+          "data_fim": "20221014T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221115T160000Z", 
+          "data_fim": "20221115T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230515T150000Z", 
+          "data_fim": "20230515T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230523T133000Z", 
+          "data_fim": "20230523T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221028T150000Z", 
+          "data_fim": "20221028T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221206T160000Z", 
+          "data_fim": "20221206T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230418T133000Z", 
+          "data_fim": "20230418T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221004T120000Z", 
+          "data_fim": "20221004T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221011T150000Z", 
+          "data_fim": "20221011T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221122T160000Z", 
+          "data_fim": "20221122T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230317T080000Z", 
+          "data_fim": "20230317T093000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221129T130000Z", 
+          "data_fim": "20221129T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230303T093000Z", 
+          "data_fim": "20230303T110000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221003T133000Z", 
+          "data_fim": "20221003T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230419T133000Z", 
+          "data_fim": "20230419T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221020T133000Z", 
+          "data_fim": "20221020T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230322T130000Z", 
+          "data_fim": "20230322T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230419T120000Z", 
+          "data_fim": "20230419T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221209T143000Z", 
+          "data_fim": "20221209T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230426T120000Z", 
+          "data_fim": "20230426T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221024T120000Z", 
+          "data_fim": "20221024T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221013T150000Z", 
+          "data_fim": "20221013T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230320T143000Z", 
+          "data_fim": "20230320T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221215T093000Z", 
+          "data_fim": "20221215T110000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230214T143000Z", 
+          "data_fim": "20230214T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230329T133000Z", 
+          "data_fim": "20230329T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221103T103000Z", 
+          "data_fim": "20221103T120000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230327T133000Z", 
+          "data_fim": "20230327T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221108T143000Z", 
+          "data_fim": "20221108T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230515T133000Z", 
+          "data_fim": "20230515T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230321T130000Z", 
+          "data_fim": "20230321T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230419T150000Z", 
+          "data_fim": "20230419T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230320T160000Z", 
+          "data_fim": "20230320T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221102T160000Z", 
+          "data_fim": "20221102T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230327T150000Z", 
+          "data_fim": "20230327T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230306T143000Z", 
+          "data_fim": "20230306T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230307T143000Z", 
+          "data_fim": "20230307T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230420T133000Z", 
+          "data_fim": "20230420T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230328T120000Z", 
+          "data_fim": "20230328T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220913T120000Z", 
+          "data_fim": "20220913T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221107T160000Z", 
+          "data_fim": "20221107T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221118T160000Z", 
+          "data_fim": "20221118T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230206T160000Z", 
+          "data_fim": "20230206T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221122T130000Z", 
+          "data_fim": "20221122T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221019T133000Z", 
+          "data_fim": "20221019T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230313T143000Z", 
+          "data_fim": "20230313T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221117T160000Z", 
+          "data_fim": "20221117T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230310T130000Z", 
+          "data_fim": "20230310T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230421T120000Z", 
+          "data_fim": "20230421T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221027T133000Z", 
+          "data_fim": "20221027T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230310T143000Z", 
+          "data_fim": "20230310T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230215T143000Z", 
+          "data_fim": "20230215T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221025T133000Z", 
+          "data_fim": "20221025T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230420T150000Z", 
+          "data_fim": "20230420T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221012T120000Z", 
+          "data_fim": "20221012T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230421T083000Z", 
+          "data_fim": "20230421T100000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230331T133000Z", 
+          "data_fim": "20230331T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230324T130000Z", 
+          "data_fim": "20230324T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230309T160000Z", 
+          "data_fim": "20230309T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230331T083000Z", 
+          "data_fim": "20230331T100000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221026T150000Z", 
+          "data_fim": "20221026T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230208T130000Z", 
+          "data_fim": "20230208T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230307T130000Z", 
+          "data_fim": "20230307T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230213T143000Z", 
+          "data_fim": "20230213T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221026T120000Z", 
+          "data_fim": "20221026T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221130T110000Z", 
+          "data_fim": "20221130T123000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221114T160000Z", 
+          "data_fim": "20221114T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221006T083000Z", 
+          "data_fim": "20221006T100000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230227T160000Z", 
+          "data_fim": "20230227T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221102T143000Z", 
+          "data_fim": "20221102T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230331T070000Z", 
+          "data_fim": "20230331T083000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230224T143000Z", 
+          "data_fim": "20230224T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230424T120000Z", 
+          "data_fim": "20230424T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230522T150000Z", 
+          "data_fim": "20230522T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221011T133000Z", 
+          "data_fim": "20221011T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230417T150000Z", 
+          "data_fim": "20230417T163000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220928T133000Z", 
+          "data_fim": "20220928T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221110T160000Z", 
+          "data_fim": "20221110T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230525T133000Z", 
+          "data_fim": "20230525T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20220914T133000Z", 
+          "data_fim": "20220914T150000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221031T160000Z", 
+          "data_fim": "20221031T173000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221114T130000Z", 
+          "data_fim": "20221114T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230303T130000Z", 
+          "data_fim": "20230303T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221206T143000Z", 
+          "data_fim": "20221206T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221111T143000Z", 
+          "data_fim": "20221111T160000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230605T173000Z", 
+          "data_fim": "20230605T203000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230627T173000Z", 
+          "data_fim": "20230627T203000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230710T103000Z", 
+          "data_fim": "20230710T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230713T070000Z", 
+          "data_fim": "20230713T100000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230629T140000Z", 
+          "data_fim": "20230629T170000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230620T070000Z", 
+          "data_fim": "20230620T100000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230601T140000Z", 
+          "data_fim": "20230601T170000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230714T140000Z", 
+          "data_fim": "20230714T170000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230628T140000Z", 
+          "data_fim": "20230628T170000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230123T150000Z", 
+          "data_fim": "20230123T180000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221029T090000Z", 
+          "data_fim": "20221029T103000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230103T080000Z", 
+          "data_fim": "20230103T110000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230711T070000Z", 
+          "data_fim": "20230711T100000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230112T080000Z", 
+          "data_fim": "20230112T110000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230711T140000Z", 
+          "data_fim": "20230711T170000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230125T113000Z", 
+          "data_fim": "20230125T143000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20221015T090000Z", 
+          "data_fim": "20221015T110000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230627T140000Z", 
+          "data_fim": "20230627T170000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230710T103000Z", 
+          "data_fim": "20230710T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230612T070000Z", 
+          "data_fim": "20230612T100000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230712T070000Z", 
+          "data_fim": "20230712T100000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230117T080000Z", 
+          "data_fim": "20230117T110000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230126T150000Z", 
+          "data_fim": "20230126T180000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230606T103000Z", 
+          "data_fim": "20230606T133000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230710T173000Z", 
+          "data_fim": "20230710T203000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230626T140000Z", 
+          "data_fim": "20230626T170000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230124T150000Z", 
+          "data_fim": "20230124T180000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230713T140000Z", 
+          "data_fim": "20230713T170000Z" 
+        }, 
+        {
+         "data_atual": "20221103T003851Z", 
+          "data_inicio": "20230109T080000Z", 
+          "data_fim": "20230109T110000Z" 
+        }
+      ]
+    }
+  ]
+}
